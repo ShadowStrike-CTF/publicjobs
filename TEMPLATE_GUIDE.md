@@ -30,9 +30,9 @@ pre-filing rules apply.
 ## Attribution
 
 Personal tool — not Strategos Suite, not SA stream, not CTF line.
-Copyright: © 2026 R (ShadowStrike). Personal use only.
+Copyright: © 2026 ShadowStrike. Personal use only.
 
 ---
 
-© 2026 R (ShadowStrike). Personal use only.
+© 2026 ShadowStrike. Personal use only.
 Aut Viam Inveniam Aut Faciam

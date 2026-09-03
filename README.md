@@ -6,5 +6,5 @@ GitHub: https://github.com/ShadowStrike-CTF/publicjobs
 
 ---
 
-© 2026 R (ShadowStrike). Personal use only.
+© 2026 ShadowStrike. Personal use only.
 Aut Viam Inveniam Aut Faciam
