@@ -1,0 +1,42 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+dist/
+build/
+*.egg-info/
+.eggs/
+*.egg
+
+# Environments
+.env
+.venv
+venv/
+ENV/
+
+# Windows
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+$RECYCLE.BIN/
+*.lnk
+
+# PyInstaller
+*.manifest
+*.spec
+
+# Distribution / packaging
+dist/
+*.whl
+*.tar.gz
+
+# IDE
+.idea/
+.vscode/
+*.swp
+
+# Tool-specific
+*.db
+*.sqlite
+config.toml
