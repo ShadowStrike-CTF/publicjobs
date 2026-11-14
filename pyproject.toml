@@ -4,7 +4,7 @@ build-backend = "hatchling.build"
 
 [project]
 name = "publicjobs"
-version = "0.0.2"
+version = "1.0.0"
 description = "Australian public sector job board aggregator for DF/cyber/intel roles."
 readme = "README.md"
 license = { text = "Personal use only" }
