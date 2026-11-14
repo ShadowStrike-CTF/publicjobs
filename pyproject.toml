@@ -7,7 +7,8 @@ name = "publicjobs"
 version = "1.0.0"
 description = "Australian public sector job board aggregator for DF/cyber/intel roles."
 readme = "README.md"
-license = { text = "Personal use only" }
+license = { text = "Proprietary" }
+authors = [{ name = "ShadowStrike", email = "r@strategos.au" }]
 requires-python = ">=3.11"
 classifiers = [
     "Programming Language :: Python :: 3",
