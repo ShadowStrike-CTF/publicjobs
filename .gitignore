@@ -40,3 +40,8 @@ dist/
 *.db
 *.sqlite
 config.toml
+
+# Internal working document. Never commit.
+TEMPLATE_GUIDE.md
+# Local-only instruction files
+CLAUDE.local.md

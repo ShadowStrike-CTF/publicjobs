@@ -4,4 +4,4 @@ publicjobs — Australian public sector job board aggregator for DF/cyber/intel 
 Aut Viam Inveniam Aut Faciam
 """
 
-__version__ = "0.0.2"
+__version__ = "1.0.0"
